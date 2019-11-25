@@ -10,6 +10,8 @@ Nanjing University, _Bachelor of Science_, _Material Physics_, 2014-2018
 
 ### Contact
 
+**Phone**: (929) 319-2255
+
 **Email**: zeguan.wu@columbia.edu
 
 ### Working Papers
