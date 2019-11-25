@@ -13,6 +13,4 @@ Nanjing University, _Bachelor of Science_, _Material Physics_, 2014-2018
 **Network Design for Silent Link User Equilibrium: Link-node formation of
 location-obfuscated transportation network** with Sharon Di and Wuping Xin
 
-### Contact
 
-Email: zeguan.wu@columbia.edu
