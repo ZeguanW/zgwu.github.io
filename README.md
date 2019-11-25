@@ -1,37 +1,16 @@
 ## About me
 
-You can use the [editor on GitHub](https://github.com/ZeguanW/zgwu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am second-year master student in Operations Research at Columbia.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
+Columbia University, _Master of Science_, _Operations Research_, 2018-2020
+Nanjing University, _Bachelor of Science_, _Material Physics_, 2014-2018
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publications
 
-```markdown
-Syntax highlighted code block
+TBD
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZeguanW/zgwu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email: zeguan.wu@columbia.edu
