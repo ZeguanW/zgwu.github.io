@@ -1,4 +1,4 @@
-## About me
+### About me
 
 I am currently a second-year master student in Operations Research at Columbia. My research interests include optimization, reinforcement learning and their applications in transportation.
 
