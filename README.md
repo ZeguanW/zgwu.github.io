@@ -4,11 +4,11 @@ Welcome to my site! I am incoming Ph.D. student of Industrial and Systems Engine
 
 ### Education
 
-Lehigh University, PhD in Industrial and Systems Engineering, 2025(expected)
+Lehigh University, Ph.D. in Industrial and Systems Engineering, 2025(expected)
 
-Columbia University, MS in Operations Research, 2020
+Columbia University, M.S. in Operations Research, 2020
 
-Nanjing University, BS in Material Physics, 2018
+Nanjing University, B.S. in Material Physics, 2018
 
 ### Working Papers
 
