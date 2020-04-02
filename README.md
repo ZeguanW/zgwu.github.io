@@ -4,7 +4,7 @@ Welcome to my site! I am incoming Ph.D. student of Industrial and Systems Engine
 
 ### Education
 
-Lehigh University, Ph.D. in Industrial and Systems Engineering, 2025(expected)
+Lehigh University, PhD in Industrial and Systems Engineering, 2025(expected)
 
 Columbia University, MS in Operations Research, 2020
 
