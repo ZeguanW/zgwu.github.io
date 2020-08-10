@@ -10,10 +10,8 @@ Columbia University, M.S. in Operations Research, 2020
 
 Nanjing University, B.S. in Material Physics, 2018
 
-### Working Papers
 
-**Network Design for Silent Link User Equilibrium: Link-node formation of
-location-obfuscated transportation network** with Sharon Di and Wuping Xin.
+
 
 
 
