@@ -1,7 +1,6 @@
 ### Biography
 
-Welcome to my site! I am an incoming Ph.D. student of Industrial and Systems Engineering at Lehigh University. My research interest lies in nonlinear optimization and quantum computing.
-
+Welcome to my site! I am an incoming Ph.D. student of Industrial and Systems Engineering at Lehigh University. My research interest lies in nonlinear optimization.
 ### Education
 
 Lehigh University, Ph.D. in Industrial and Systems Engineering, 2025(expected)
