@@ -1,6 +1,6 @@
 ### Biography
 
-Welcome to my site! I am a first-year Ph.D. student of Industrial and Systems Engineering at Lehigh University. My research interest lies in Quantum Computing and Optimization. Currently, I am working with Tamás Terlaky and Xiu Yang on Quantum Interior Point Method.
+Welcome to my site! I am a second-year Ph.D. student of Industrial and Systems Engineering at Lehigh University. My research interest lies in Quantum Computing, optimization and machine learning. Currently, I am working with Tamás Terlaky and Xiu Yang.
 
 ### Education
 
